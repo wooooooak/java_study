@@ -1,4 +1,4 @@
-package ch3;
+package Lambda;
 
 public interface LambdaInterface3 {
     // 반환값이 있는 경우
