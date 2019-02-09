@@ -1,3 +1,5 @@
+package Strategy;
+
 public class GameCharacter {
 
     // 접근점
